@@ -25,7 +25,7 @@
 }
 
 .name {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.4);
   position: absolute;
   left:50%;
   top: 50%;
@@ -34,7 +34,7 @@
 
 h1 {
   color: white;
-  text-shadow: 4px 4px 8px #000000;
+  text-shadow: 3px 5px 2px #000000;
   padding: 10px;
   cursor: pointer;
   }
